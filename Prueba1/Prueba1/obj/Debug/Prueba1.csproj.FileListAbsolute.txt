@@ -1,0 +1,10 @@
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.AssemblyReference.cache
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.cache
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\la_yo\Source\Repos\YA2222\prueba\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
