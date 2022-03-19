@@ -21,6 +21,7 @@ namespace Prueba1
         {
             MessageBox.Show("hola");
             MessageBox.Show("T");
+            MessageBox.Show("T");
         }
     }
 }
